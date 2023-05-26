@@ -1,0 +1,18 @@
+{
+  "name": "microverse-admissions",
+  "devDependencies": {
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "description": "Given a positive integer `num`, return the sum of all odd Fibonacci numbers that are less than or equal to `num`.",
+  "version": "1.0.0",
+  "main": "sum-all-odd-fibonacci-numbers.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
